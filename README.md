@@ -5,6 +5,10 @@ Encryption is the process that transforms the text or information to the unrecog
 
 
 Message encoding and decoding is the process to first convert the original text to the random and meaningless text called ciphertext. This process is called encoding. Decoding is the process to convert that ciphertext to the original text. This process is also called the Encryption-Decryption process.
+ Click on the link below to view the blog post
+
+ # [BLOG LINK](https://dev.to/yaswanthteja/message-encryption-decryption-using-python-j5l)
+
 
 #   Prerequisites
 
